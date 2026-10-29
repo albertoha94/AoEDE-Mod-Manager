@@ -1,0 +1,11 @@
+AoE:DE Mod Manager - freeware license
+Copyright (c) 2026 albertoha94. All rights reserved.
+
+You may download and use AoEDE_ModManager.exe free of charge, for personal use, and share unmodified copies
+of it free of charge, as long as this license comes with it.
+
+You may not sell it, modify it, or present it as your own work.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+Back up your game before using mods; Steam's "Verify integrity of game files" restores the original game.
